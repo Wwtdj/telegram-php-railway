@@ -1,0 +1,8 @@
+{
+  "name": "telegram/alzaem-bot",
+  "description": "Telegram bot deployed on Railway",
+  "require": {
+    "php": ">=8.2",
+    "ext-curl": "*"
+  }
+}
